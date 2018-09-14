@@ -1,14 +1,14 @@
 # Python
 
-How to install Python 3
-e.g. $sudo apt-get install python3.6
+How to install Python 3 <br />
+e.g. $sudo apt-get install python3.6 <br />
 
-It is better to first install Anaconda, which is an open-source package manager.  
-see, e.g. https://conda.io/docs/user-guide/install/linux.html 
+It is better to first install Anaconda, which is an open-source package manager.   <br />
+see, e.g. https://conda.io/docs/user-guide/install/linux.html  <br />
 
-PyCharm is an IDE used in programming, specifically for Python. 
-How to install PyCharm
-https://www.jetbrains.com/help/pycharm/install-and-set-up-pycharm.html
+PyCharm is an IDE used in programming, specifically for Python.  <br />
+How to install PyCharm <br />
+https://www.jetbrains.com/help/pycharm/install-and-set-up-pycharm.html <br />
 
 
 1. Dive into Python 3
