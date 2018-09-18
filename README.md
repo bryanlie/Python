@@ -11,5 +11,10 @@ How to install PyCharm <br />
 https://www.jetbrains.com/help/pycharm/install-and-set-up-pycharm.html <br />
 
 
-1. Dive into Python 3
+1. Dive into Python 3 <br />
+free online book <br />
+http://www.diveintopython3.net/ <br />
+
+2. Effective Python: 59 Specific Ways to Write Better Python <br />
+https://effectivepython.com/
 
