@@ -18,3 +18,6 @@ http://www.diveintopython3.net/ <br />
 2. Effective Python: 59 Specific Ways to Write Better Python <br />
 https://effectivepython.com/
 
+3. Intro: Introduction to Python 
+中文Python 教学
+
