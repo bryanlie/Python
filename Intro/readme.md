@@ -17,3 +17,11 @@ https://youtu.be/qPzkJfBRrxo
 https://github.com/bryanlie/Python/blob/master/Intro/list.ipynb
 
 https://youtu.be/3H99Ix1lQw0
+
+3. Dictionary
+
+https://github.com/bryanlie/Python/blob/master/Intro/dictionary.ipynb
+
+4. Functions
+
+https://github.com/bryanlie/Python/blob/master/Intro/functions.ipynb
