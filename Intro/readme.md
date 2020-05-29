@@ -22,6 +22,10 @@ https://youtu.be/3H99Ix1lQw0
 
 https://github.com/bryanlie/Python/blob/master/Intro/dictionary.ipynb
 
+https://youtu.be/O2CTIElfgpM
+
 4. Functions
 
 https://github.com/bryanlie/Python/blob/master/Intro/functions.ipynb
+
+https://youtu.be/tDILMZn7TCo
