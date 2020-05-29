@@ -16,8 +16,8 @@ free online book <br />
 http://www.diveintopython3.net/ <br />
 
 2. Effective Python: 59 Specific Ways to Write Better Python <br />
-https://effectivepython.com/
+https://effectivepython.com/ <br />
 
-3. Intro: Introduction to Python 
-中文Python 教学
+3. Intro: Introduction to Python <br />
+中文Python 教学 <br />
 
