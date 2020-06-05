@@ -33,3 +33,5 @@ https://youtu.be/tDILMZn7TCo
 5. Functions Advanced
 
 https://github.com/bryanlie/Python/blob/master/Intro/functionsAdvanced.ipynb
+
+https://youtu.be/LYZYpVumkCA
