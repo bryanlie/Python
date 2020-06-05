@@ -29,3 +29,7 @@ https://youtu.be/O2CTIElfgpM
 https://github.com/bryanlie/Python/blob/master/Intro/functions.ipynb
 
 https://youtu.be/tDILMZn7TCo
+
+5. Functions Advanced
+
+https://github.com/bryanlie/Python/blob/master/Intro/functionsAdvanced.ipynb
