@@ -1,37 +1,45 @@
 # Notebooks of basic Python 
 
-0. Install Python
+0. Install Python 如何安装Python
 
 https://bryanlie.github.io/SetupPython/
 
 https://youtu.be/C8pSKbb453U
 
-1. Variables
+1. Variables 变量
 
 https://github.com/bryanlie/Python/blob/master/Intro/variables.ipynb
 
 https://youtu.be/qPzkJfBRrxo
 
-2. List
+2. List 序列
 
 https://github.com/bryanlie/Python/blob/master/Intro/list.ipynb
 
 https://youtu.be/3H99Ix1lQw0
 
-3. Dictionary
+3. Dictionary 字典
 
 https://github.com/bryanlie/Python/blob/master/Intro/dictionary.ipynb
 
 https://youtu.be/O2CTIElfgpM
 
-4. Functions
+4. Functions 函数
 
 https://github.com/bryanlie/Python/blob/master/Intro/functions.ipynb
 
 https://youtu.be/tDILMZn7TCo
 
-5. Functions Advanced
+5. Functions Advanced 函数高级话题
 
 https://github.com/bryanlie/Python/blob/master/Intro/functionsAdvanced.ipynb
 
 https://youtu.be/LYZYpVumkCA
+
+6. Classes 类
+
+https://github.com/bryanlie/Python/blob/master/Intro/classes.ipynb
+
+7. Classes Advanced 类高级话题
+
+https://github.com/bryanlie/Python/blob/master/Intro/classesAdvanced.ipynb
