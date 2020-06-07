@@ -40,6 +40,10 @@ https://youtu.be/LYZYpVumkCA
 
 https://github.com/bryanlie/Python/blob/master/Intro/classes.ipynb
 
+https://youtu.be/osZ1k6-UdpU
+
 7. Classes Advanced 类高级话题
 
 https://github.com/bryanlie/Python/blob/master/Intro/classesAdvanced.ipynb
+
+https://youtu.be/Kh8z9H4YD7o
