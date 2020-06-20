@@ -51,3 +51,9 @@ https://youtu.be/Kh8z9H4YD7o
 8. Mplfinance 画蜡烛图
 
 https://github.com/bryanlie/Python/blob/master/Intro/mplfinance.ipynb
+
+https://youtu.be/cabtwfHQZ24
+
+旧的模块 mpl_finance 画蜡烛图的代码可以在另一个文件夹里找到
+
+https://github.com/bryanlie/Data-Visualization/tree/master/Stock%20candlesticks
