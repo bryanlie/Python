@@ -47,3 +47,5 @@ https://youtu.be/osZ1k6-UdpU
 https://github.com/bryanlie/Python/blob/master/Intro/classesAdvanced.ipynb
 
 https://youtu.be/Kh8z9H4YD7o
+
+8. Mplfinance 画蜡烛图
